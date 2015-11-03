@@ -391,12 +391,9 @@ public class Ventana extends JFrame {
 				} catch (IOException e) {
 					System.out.println(archivos[i].getPath());
 					e.printStackTrace();
-				}
-				
+				}				
 			}
-
-		}
-		
+		}		
 	}
 	
 	private void changePath(String path){

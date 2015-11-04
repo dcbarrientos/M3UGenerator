@@ -36,6 +36,7 @@ import java.util.Vector;
 import javax.swing.JOptionPane;
 
 /**
+ * Generador de archivo m3u en base a la lista de temas.
  * @author Diego Barrientos <dc_barrientos@yahoo.com.ar>
  *
  */
